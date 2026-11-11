@@ -7,7 +7,8 @@
 ---
 
 ## 🎓 Education
-- **M.Sc. Communications Engineering & Data Science**  
+- **M.Sc. Communications Engineering & Data Science**
+  Universitat Politecnica Catalunya, Spain | Sep 2026 – Present   
   Aalto University, Finland | Sep 2025 – Present  
   (Erasmus Mundus Joint Master’s Degree Scholar)
 
@@ -17,6 +18,9 @@
 ---
 
 ## 💼 Experience
+- **Project Worker**  
+  Instituto Superio Tecnico, Lisbon | Mar 2026 – Aug 2026
+  
 - **Data Scientist & Researcher Intern**  
   Central Bank of Indonesia | Aug 2023 – Mar 2024
 

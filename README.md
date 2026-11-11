@@ -1,68 +1,35 @@
-# Hi 👋 I'm Muhammad Rauf
+# Muhammad Rauf
 
-🌐 **[Explore my portfolio & selected projects](https://mrtrauf.github.io/)**  
-💻 [Public GitHub project gallery](https://mrtrauf.github.io/#projects)
+**Data science · Machine learning · Communications engineering**
 
+I'm a computer science graduate now studying Communications Engineering & Data Science through an Erasmus Mundus joint master's programme. I work on projects involving network data, forecasting, information retrieval, and football analytics.
 
-🎓 Master’s Student in Communications Engineering & Data Science  
-📍 Espoo, Finland  
-🤖 Data Science | Machine Learning | Network Analysis
+**[Portfolio and project gallery](https://mrtrauf.github.io/)** · [LinkedIn](https://www.linkedin.com/in/muhammadrauf) · [Email](mailto:mrt.rauf@gmail.com)
 
----
+## Selected projects
 
-## 🎓 Education
-- **M.Sc. Communications Engineering & Data Science**  
-  Universitat Politecnica Catalunya, Spain | Sep 2026 – Present   
-  Aalto University, Finland | Sep 2025 – Present  
-  (Erasmus Mundus Joint Master’s Degree Scholar)
+| Project | What I built |
+| --- | --- |
+| [Touchline AI](https://github.com/MRTRauf/touchline-ai) | Football scouting and player-comparison tools, with documented retrospective ML experiments and limitations. |
+| [ClubOps Intelligence](https://github.com/MRTRauf/clubops-intelligence-public) | Historical football fixture analysis, validation, Excel reporting, and an interactive dashboard. |
+| [Network KPI Anomaly Detector](https://github.com/MRTRauf/network-kpi-anomaly-detector) | Time-series anomaly detection for investigating network performance. |
+| [Predictive Maintenance RUL](https://github.com/MRTRauf/predictive-maintenance-rul) | Remaining-useful-life analysis on NASA CMAPSS data, with a maintenance triage interface. |
+| [Science Trend Radar](https://github.com/MRTRauf/science-trend-radar) | OpenAlex research trend exploration using TF-IDF and clustering. |
 
-- **B.Sc. Computer Science**  
-  Universitas Gadjah Mada | Sep 2020 – Aug 2024  
+**[See the full project gallery →](https://mrtrauf.github.io/#projects)**
 
----
+## Background
 
-## 💼 Experience
-- **Project Worker**  
-  Instituto Superio Tecnico, Lisbon | Mar 2026 – Aug 2026
-  
-- **Data Scientist & Researcher Intern**  
-  Central Bank of Indonesia | Aug 2023 – Mar 2024
+- **Erasmus Mundus joint master's** in Communications Engineering & Data Science — Aalto University and Universitat Politècnica de Catalunya.
+- **B.Sc. Computer Science** — Universitas Gadjah Mada (2024).
+- Previous data and research work at **Instituto Superior Técnico**, **Bank Indonesia**, and **Telkomsel**.
 
-- **Data Analytics Intern**  
-  Telkomsel | Aug 2022 – Dec 2022
+## Tools I use
 
-- **Digital Data Analyst**  
-  Student Executive Board of UGM | Jan 2021 – Dec 2021
+Python, SQL, scikit-learn, PyTorch, pandas, NetworkX, Streamlit, Docker, Git, and Linux.
 
-- **Digital Data Analysis Coordinator**  
-  Student Executive Board of FMIPA UGM | Nov 2020 – Dec 2021
+I tend to learn by building small end-to-end projects: making a dataset usable, checking the assumptions, and putting the result in a form that someone can explore.
 
 ---
 
-## 🔬 Interests
-- Machine Learning & Deep Learning  
-- Data Analytics & Time-Series Forecasting  
-- Network Analysis & Social Network Analysis  
-- NLP & Sentiment Analysis  
-
----
-
-## 🧰 Tech Stack
-- **Languages**: Python, SQL, Java, C++  
-- **ML / Data**: PyTorch, Scikit-learn, NetworkX  
-- **Visualization**: Tableau, Gephi, Matplotlib  
-- **Tools**: Docker, Kafka, Git, Linux  
-
----
-
-## 🏆 Highlights
-- Finalist GAMMAFEST IPB Data Science Competition 2023  
-- 3rd Place DEXA Innovation Award (Health Data Analysis) 2022  
-- Top 20 Satria Data Kemdikbudristek (2021 & 2022)
-
----
-
-## 📫 Connect
-- GitHub: https://github.com/MRTRauf  
-- LinkedIn: https://linkedin.com/in/muhammadrauf  
-- Email: mrt.rauf@gmail.com
+[Website](https://mrtrauf.github.io/) · [All public repositories](https://github.com/MRTRauf?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/muhammadrauf)

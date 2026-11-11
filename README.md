@@ -1,5 +1,9 @@
 # Hi 👋 I'm Muhammad Rauf
 
+🌐 **[Explore my portfolio & selected projects](https://mrtrauf.github.io/)**  
+💻 [Public GitHub project gallery](https://mrtrauf.github.io/#projects)
+
+
 🎓 Master’s Student in Communications Engineering & Data Science  
 📍 Espoo, Finland  
 🤖 Data Science | Machine Learning | Network Analysis

@@ -7,7 +7,7 @@
 ---
 
 ## 🎓 Education
-- **M.Sc. Communications Engineering & Data Science**
+- **M.Sc. Communications Engineering & Data Science**  
   Universitat Politecnica Catalunya, Spain | Sep 2026 – Present   
   Aalto University, Finland | Sep 2025 – Present  
   (Erasmus Mundus Joint Master’s Degree Scholar)

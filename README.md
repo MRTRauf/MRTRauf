@@ -11,6 +11,7 @@ I'm a computer science graduate now studying Communications Engineering & Data S
 | Project | What I built |
 | --- | --- |
 | [Touchline AI](https://github.com/MRTRauf/touchline-ai) | Football scouting and player-comparison tools, with documented retrospective ML experiments and limitations. |
+| [PathwayLab](https://github.com/MRTRauf/pathwaylab) | Longitudinal football training-load analysis, temporal forecasting, and exposure-aware match-involvement research with a synthetic-only public demo. |
 | [ClubOps Intelligence](https://github.com/MRTRauf/clubops-intelligence-public) | Historical football fixture analysis, validation, Excel reporting, and an interactive dashboard. |
 | [Network KPI Anomaly Detector](https://github.com/MRTRauf/network-kpi-anomaly-detector) | Time-series anomaly detection for investigating network performance. |
 | [Predictive Maintenance RUL](https://github.com/MRTRauf/predictive-maintenance-rul) | Remaining-useful-life analysis on NASA CMAPSS data, with a maintenance triage interface. |

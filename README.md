@@ -1,14 +1,39 @@
+<div align="center">
+
 # Muhammad Rauf
 
-**Communications engineering · Data science · Machine learning**
+### Data Science · Machine Learning · Communications Engineering
 
-I'm a computer science graduate now studying Communications Engineering & Data Science through an Erasmus Mundus joint master's programme. My main focus is telecommunications: network slicing, network KPI anomaly detection, and Layer-1 signal analytics. I also build projects in forecasting, information retrieval, and football analytics.
+Erasmus Mundus CoDaS MSc · UPC BarcelonaTech & Aalto University
 
-**[Portfolio and project gallery](https://mrtrauf.github.io/)** · [LinkedIn](https://www.linkedin.com/in/muhammadrauf) · [Email](mailto:mrt.rauf@gmail.com)
+[Portfolio](https://mrtrauf.github.io/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/muhammadrauf) &nbsp; / &nbsp; [Email](mailto:mrt.rauf@gmail.com)
 
-## Projects
+</div>
 
-Explore all 20 public project, learning, and portfolio repositories below, starting with my telecommunications work.
+---
+
+I build tools that turn data into something people can inspect and use—from radio signal diagnostics and network monitoring to football scouting, forecasting, and research discovery.
+
+My work spans **telecommunications**, **football analytics**, and **applied machine learning**. I care about reproducible pipelines, time-aware evaluation, readable interfaces, and documenting the limits of a result.
+
+## A look at my work
+
+| Telecommunications | Football analytics | Applied machine learning |
+| :--- | :--- | :--- |
+| [![Network KPI anomaly detector dashboard](https://raw.githubusercontent.com/MRTRauf/network-kpi-anomaly-detector/main/assets/dashboard_overview.png)](https://github.com/MRTRauf/network-kpi-anomaly-detector) | [![Touchline AI player scouting dashboard](https://raw.githubusercontent.com/MRTRauf/touchline-ai/main/assets/dashboard.png)](https://github.com/MRTRauf/touchline-ai) | [![Predictive maintenance fleet chart](https://raw.githubusercontent.com/MRTRauf/predictive-maintenance-rul/main/docs/dashboard_fleet_chart.png)](https://github.com/MRTRauf/predictive-maintenance-rul) |
+| **[Network KPI Anomaly Detector](https://github.com/MRTRauf/network-kpi-anomaly-detector)** | **[Touchline AI](https://github.com/MRTRauf/touchline-ai)** | **[Predictive Maintenance RUL](https://github.com/MRTRauf/predictive-maintenance-rul)** |
+| Investigate unusual network behaviour using past-only features and chronological validation. | Explore player profiles, compare statistical similarities, and build a session shortlist. | Estimate remaining engine life on NASA CMAPSS and review units through a triage dashboard. |
+| Python · Time series · Streamlit | Python · scikit-learn · Streamlit | Python · Regression · Streamlit |
+
+**Also explore** · [5G slice selection](https://github.com/MRTRauf/network-slicing-decision-support-tool) · [Layer-1 signal diagnostics](https://github.com/MRTRauf/l1-ml-signal-analytics) · [PathwayLab](https://github.com/MRTRauf/pathwaylab) · [ClubOps reporting](https://github.com/MRTRauf/clubops-intelligence-public)
+
+Touchline AI includes documented retrospective forecasting and data-quality limitations. PathwayLab’s public application uses synthetic demonstration data. Predictive maintenance results use a benchmark dataset.
+
+## Project directory
+
+**20 public repositories across seven categories.** Start with telecommunications, or jump to another field.
+
+[Telco](#telco--communications-engineering) · [Football](#football-analytics) · [Machine learning](#applied-machine-learning) · [NLP & research](#nlp-research--social-network-analysis) · [IP tools](#intellectual-property--workflow-tools) · [Learning](#learning--software-engineering-exercises) · [Website](#portfolio-website)
 
 ### Telco & Communications Engineering
 
@@ -39,7 +64,7 @@ Explore all 20 public project, learning, and portfolio repositories below, start
 | --- | --- |
 | [Science Trend Radar](https://github.com/MRTRauf/science-trend-radar) | OpenAlex research exploration with TF-IDF, paper clustering, summaries, and a searchable Streamlit dashboard. |
 | [Bluesky Polarization & Coordination](https://github.com/MRTRauf/bluesky-polarization-coordination) | Bluesky reply-network analysis, community and polarization metrics, topic modeling, and shared-target coordination signals for investigation. |
-| [vaderindo](https://github.com/MRTRauf/vaderindo) | Sentiment-analysis repository whose current README documents FinVADER and finance-specific VADER lexicons. |
+| [vaderindo](https://github.com/MRTRauf/vaderindo) | Financial sentiment-analysis experiments with VADER and domain-specific lexicons. |
 
 ### Intellectual Property & Workflow Tools
 
@@ -69,16 +94,25 @@ Explore all 20 public project, learning, and portfolio repositories below, start
 
 ## Background
 
-- **Erasmus Mundus joint master's** in Communications Engineering & Data Science — Aalto University and Universitat Politècnica de Catalunya.
-- **B.Sc. Computer Science** — Universitas Gadjah Mada (2024).
-- Previous data and research work at **Instituto Superior Técnico**, **Bank Indonesia**, and **Telkomsel**.
+- **Erasmus Mundus CoDaS MSc** in Communications Engineering & Data Science — UPC BarcelonaTech and Aalto University.
+- **B.Sc. Computer Science** — Universitas Gadjah Mada, 2024.
+- Data and research experience at **Instituto Superior Técnico**, **Bank Indonesia**, and **Telkomsel**.
 
-## Tools I use
+## Toolkit
 
-Python, SQL, scikit-learn, PyTorch, pandas, NetworkX, Streamlit, Docker, Git, and Linux.
-
-I tend to learn by building small end-to-end projects: making a dataset usable, checking the assumptions, and putting the result in a form that someone can explore.
+| Area | Tools |
+| :--- | :--- |
+| Data & analysis | Python, SQL, pandas, NumPy |
+| Machine learning | scikit-learn, PyTorch |
+| Networks & exploration | NetworkX, time-series analysis |
+| Interfaces & delivery | Streamlit, Docker, Git, Linux |
 
 ---
 
-[Website](https://mrtrauf.github.io/) · [All public repositories](https://github.com/MRTRauf?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/muhammadrauf)
+<div align="center">
+
+Explore the code, methodology, and limitations in each repository.
+
+[Project gallery](https://mrtrauf.github.io/) · [GitHub repositories](https://github.com/MRTRauf?tab=repositories) · [Get in touch](mailto:mrt.rauf@gmail.com)
+
+</div>
